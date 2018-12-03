@@ -2,16 +2,16 @@
 A simple program to convert a list-based file to Excel-ready CSV file
 
 <b>Expected list-based input file has the format as below:</b>
-appless
-banana
-cherries
-durian
+<p>apples</br>
+banana</br>
+cherries</br>
+durian</p>
 
-eggplant
-figs
-grapes
-huckeberries
+<p>eggplant</br>
+figs</br>
+grapes</br>
+huckeberries</p>
 
 <b>Excel-ready CSV output file should look like below:</b>
-appless,banana,cherries,durian
-eggplant,figs,grapes,huckeberries
+<p>appless,banana,cherries,durian</br>
+eggplant,figs,grapes,huckeberries</p>
