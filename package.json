@@ -1,0 +1,19 @@
+{
+  "name": "list-to-csv-to-excel",
+  "version": "1.0.0",
+  "description": "A program to convert a list or CSV file into Excel sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeemu/list-to-csv-to-excel.git"
+  },
+  "author": "Jeemu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeemu/list-to-csv-to-excel/issues"
+  },
+  "homepage": "https://github.com/Jeemu/list-to-csv-to-excel#readme"
+}
