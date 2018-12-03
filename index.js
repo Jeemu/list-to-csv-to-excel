@@ -1,6 +1,4 @@
 const fs = require('fs')
-const path = require('path')
-//const replacing = require('./replaceThis.js')
 const csvSource = 'source.txt'
 
 //Read file
