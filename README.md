@@ -13,5 +13,5 @@ grapes</br>
 huckeberries</p>
 
 <b>Excel-ready CSV output file should look like below:</b>
-<p>appless,banana,cherries,durian</br>
+<p>apples,banana,cherries,durian</br>
 eggplant,figs,grapes,huckeberries</p>
